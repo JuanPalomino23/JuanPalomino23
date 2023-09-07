@@ -1,5 +1,5 @@
 ### Hi there 👋
-##I'm Juan Palomino mechatronic engineering 
+## I'm Juan Palomino mechatronic engineering 
 <!--
 **JuanPalomino23/JuanPalomino23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
